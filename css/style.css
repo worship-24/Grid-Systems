@@ -1,0 +1,20 @@
+.header, .hero, .body, .footer{
+	background-color: #FFAEC9;
+	padding:10px;
+}
+.box{
+	height:100px;
+	border:2px solid green;
+	background-color: #9BD8EA;
+	font-size:20px;
+	text-align: center;
+	margin:10px 0;
+}
+.red{
+	background-color: red;
+}
+h1{
+	margin:0 auto;
+	text-align:center;
+	background-color:green;
+}
